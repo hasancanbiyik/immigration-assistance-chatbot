@@ -122,4 +122,4 @@ pytest tests/ -v
 
 ## Author
 
-Hasan Can Biyik — [Portfolio](https://hasancanbiyik.com) | [LinkedIn](https://linkedin.com/in/hasancanbiyik)
+Hasan Can Biyik — [Portfolio]([https://hasancanbiyik.com](https://hasancanbiyik.github.io/)) | [LinkedIn]([https://linkedin.com/in/hasancanbiyik](https://www.linkedin.com/in/hasancanbyk/))
